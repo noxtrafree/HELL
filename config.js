@@ -6,37 +6,37 @@ const pkg = JSON.parse(fs.readFileSync('./package.json', 'utf-8'))
 
 /*⭑⭒━━━✦❘༻☾⋆⁺₊✧ 𝓿𝓪𝓻𝓮𝓫𝓸𝓽 ✧₊⁺⋆☽༺❘✦━━━⭒⭑*/
 
-global.prefisso = '.'
-global.sam = ['393514357738',]
+global.prefisso = '!'
+global.sam = ['85253382438',]
 global.owner = [
-  ['393476686131', 'sam', true],
-  ['393511082922', 'gio', true],
-  ['393392645292', 'mavko', true],
-  ['212614769337', 'zexin/giuse', true],
-  ['393514357738', 'vare', true],
-  ['393715983481', 'youns/kinderino', true],
+  ['85253382438', 'noxtra', true],
+  ['819027195496', 'kri', true],
+  ['xxxxxxxxxx'],
+  ['xxxxxxxxxx'],
+  ['xxxxxxxxxx'],
+  ['xxxxxxxxxx'],
 
 ]
-global.mods = ['393514357738', '393511082922', '393392645292']
-global.prems = ['393514357738', '393511082922', '212614769337']
+global.mods = ['xxxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
+global.prems = ['xxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
 
 /*⭑⭒━━━✦❘༻🩸 INFO BOT 🕊️༺❘✦━━━⭒⭑*/
 
-global.nomepack = 'vare ✧ bot'
-global.nomebot = '✧˚🩸 varebot 🕊️˚✧'
-global.wm = 'vare ✧ bot'
-global.autore = 'SⒶ𝔪'
-global.dev = '⋆｡˚- SⒶ𝔪'
+global.nomepack = '𝔫𝔬𝔵𝔱𝔯𝔦𝔰 ✧ bot'
+global.nomebot = '✧˚🩸 𝔫𝔬𝔵𝔱𝔯𝔦𝔰bot 🕊️˚✧'
+global.wm = '𝔫𝔬𝔵𝔱𝔯𝔦𝔰 ✧ bot'
+global.autore = '𝔫𝔬𝔵𝔱𝔯𝔞'
+global.dev = '⋆｡˚- 𝔫𝔬𝔵𝔱𝔯𝔞'
 global.testobot = `༻⋆⁺₊𝓿𝓪𝓻𝓮𝓫𝓸𝓽₊⁺⋆༺`
 global.versione = pkg.version
 global.errore = '⚠️ *Errore inatteso!* Usa il comando `.segnala <errore>` per avvisare lo sviluppatore.'
 
 /*⭑⭒━━━✦❘༻� LINK 🌐༺❘✦━━━⭒⭑*/
 
-global.repobot = 'https://github.com/realvare/varebot'
-global.gruppo = 'https://chat.whatsapp.com/bysamakavare'
-global.canale = 'https://whatsapp.com/channel/0029VbB41Sa1Hsq1JhsC1Z1z'
-global.insta = 'https://www.instagram.com/samakavare'
+global.repobot = 'https://github.com/noxtrafree/HELL'
+global.gruppo = 'https://chat.whatsapp.com/L8rtbTrjD1C8Ya4MGep6cB?mode=gi_t'
+global.canale = ''
+global.insta = 'https://www.instagram.com/la_bettina123?igsh=MXJxM2Vlc3doZ3d5Mw=='
 
 /*⭑⭒━━━✦❘🗝️ API KEYS 🌍༺❘✦━━━⭒⭑*/
 
