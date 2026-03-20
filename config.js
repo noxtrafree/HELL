@@ -12,7 +12,7 @@ global.owner = [
   ['85253382438', 'noxtra', true],
   ['819027195496', 'kri', true],
   ['393274220066', 'betta', true],
-  ['xxxxxxxxxx'],
+  ['4915511184391', 'endy patato', true],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
 
