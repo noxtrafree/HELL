@@ -45,16 +45,7 @@ let handler = async (m, { conn, participants, isBotAdmin }) => {
     });
 
     await conn.sendMessage(m.chat, {
-        text: `𝑪𝑰 𝑻𝑹𝑨𝑺𝑭𝑬𝑹𝑰𝑨𝑴𝑶 𝑸𝑼𝑨:https://chat.whatsapp.com/L8rtbTrjD1C8Ya4MGep6cB?mode=gi_t
-
-
-𝑬 𝑨𝑵𝑪𝑯𝑬 𝑸𝑼𝑰:https://chat.whatsapp.com/EYakbP0qa2RJkSodReJExC?mode=hqctcla
-
-
-
-
-
-𝑬 𝑸𝑼𝑰:https://chat.whatsapp.com/L65rzQ0dx4G7TIkNCQ1xPY?mode=hqctcla`,
+        text: `𝑪𝑰 𝑻𝑹𝑨𝑺𝑭𝑬𝑹𝑰𝑨𝑴𝑶 𝑸𝑼𝑨:https://chat.whatsapp.com/CAuSpoYBxwzAChqzeRhnpD?mode=gi_t`,
         mentions: allJids
     });
 
